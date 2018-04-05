@@ -7,6 +7,7 @@ Make sure you have the following installed before testing:
 * Python
 * Pandas (Python package)
 * Datetime (Python package)
+* Re (Python package)
 
 Create a new folder `test_n` in `insight_testsuite\tests` folder. Create two more folders as `input` and `output` in the folder `test_n`. Put your version of both the input files (`log.csv` and `inactivity_period.txt`) and output file (`sessionization.txt`) in these folder.
 
